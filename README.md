@@ -1,6 +1,5 @@
 # Check insecure request parameters
 
-[![Version](https://poser.pugx.org/tleckie/injector-detect/version)](//packagist.org/packages/tleckie/injector-detect)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/teodoroleckie/injector-detect/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/teodoroleckie/injector-detect/?branch=main)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/teodoroleckie/injector-detect/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
 [![Build Status](https://scrutinizer-ci.com/g/teodoroleckie/injector-detect/badges/build.png?b=main)](https://scrutinizer-ci.com/g/teodoroleckie/injector-detect/build-status/main)
